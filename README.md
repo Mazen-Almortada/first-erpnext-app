@@ -4,4 +4,4 @@ first app
 
 #### License
 
-mit
+mit# first-erpnext-app
